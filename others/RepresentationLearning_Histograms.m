@@ -1,3 +1,5 @@
+#an attempt to encode images into sparse histograms
+
 clc;
 clear;
 
