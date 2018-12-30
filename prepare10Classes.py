@@ -1,3 +1,5 @@
+#extracting only 10 classes for some very preliminary testing of our methodology
+
 import csv
 with open('fisher_vectors_10classes.csv', 'rt') as inp, open('training_prel.csv', 'wt') as out, open('valid_prel.csv', 'wt') as out2:
     writer = csv.writer(out)
