@@ -1,3 +1,5 @@
+#here we test various different classifiers to decide on which ones to further tune
+
 import numpy as np
 from sklearn.metrics import accuracy_score
 from sklearn.linear_model import SGDClassifier
