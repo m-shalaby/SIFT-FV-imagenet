@@ -1,3 +1,5 @@
+%an attempt to encode images using Vector of Locally Aggregated Descriptors (VLAD)
+
 %need to run the following line:
 %run('/Users/m_ayman/Desktop/Life/Courses/Fall 2018/Comp551/Final Project/vlfeat-0.9.21/toolbox/vl_setup')
 %To check that VLFeat is sucessfully installed, try to run the vl_version command: vl_version verbose
