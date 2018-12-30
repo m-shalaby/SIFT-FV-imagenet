@@ -1,3 +1,5 @@
+#use the splitter_manual.py file instead
+
 import numpy as np
 
 input_filename_X = 'fisher_vectors_copy.csv'
